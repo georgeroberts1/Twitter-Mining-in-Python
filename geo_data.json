@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.2875893, 
+                    39.9591754
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Obviously #MelKiper forecasted #Clinton #ElectionDay", 
+                "created_at": "Wed Nov 09 11:39:35 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.8983, 
+                    10.496
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u00bfSab\u00edas que #ElectionDay se mantuvo el martes 8 durante 12 horas en Venezuela como Tendencia? https://t.co/osVAZymjlu #trndnl", 
+                "created_at": "Wed Nov 09 11:42:48 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0212, 
+                    -12.0436
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ElectionDay estuvo el martes 8 como Tendencia en Per\u00fa durante 12 horas: https://t.co/leWNfZBt1r #trndnl", 
+                "created_at": "Wed Nov 09 11:42:53 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98559478, 
+                    40.74900325
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Morning America \ud83d\ude12 #BadHombres #BadGringos #Ignorance #ElectionDay #DonaldTrump\u2026 https://t.co/eKzc5DxRxP", 
+                "created_at": "Wed Nov 09 11:49:02 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.68295378, 
+                    51.53703282
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "How the Fashion Industry Does #ElectionDay Style https://t.co/1hW5RP3MXy #Fashion https://t.co/GdRgB1dCUh", 
+                "created_at": "Wed Nov 09 11:51:11 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.29536035, 
+                    43.67825231
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Mind blown! #ElectionDay", 
+                "created_at": "Wed Nov 09 12:01:38 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.99800058, 
+                    -16.1800452
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "IT'S ABOUT IDENTITY RACE\u2014IF U NEED EM\u2014WELCOME BACK TO SLEEP GUYS I JUST FIND IT DIFFICULT TO RESPECT TRUMP I DO AND OLD WHITES #ELECTIONDAY", 
+                "created_at": "Wed Nov 09 12:06:21 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.2804699, 
+                    48.8682899
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#America #fuckyeah #electionday @ HEREZIE https://t.co/FaGqEBR8KW", 
+                "created_at": "Wed Nov 09 12:07:54 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.2503811, 
+                    -3.35127747
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "US has made its choice.\n#usa #us\ud83c\uddfa\ud83c\uddf8 #unitedstatesofamerica #us #election2016 #electionday\u2026 https://t.co/NUdE0qRLT8", 
+                "created_at": "Wed Nov 09 12:18:37 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.3735, 
+                    -34.6085
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "El tuit con m\u00e1s repercusi\u00f3n de la Tendencia 'Gano Donald' fue de @Eljuancaa_: https://t.co/RPHCTFChtF (216 RTs) #trndnl", 
+                "created_at": "Wed Nov 09 12:22:33 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    100.494, 
+                    13.7522
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#electionday #America #vote @ Bangkok, Thailand https://t.co/lfNYVflyxw", 
+                "created_at": "Wed Nov 09 12:37:56 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.39489634, 
+                    33.7577012
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#ElectionDay fuel! (@ Starbucks in Atlanta, GA) https://t.co/EX7107kLBm https://t.co/9Z17X2Z6Uc", 
+                "created_at": "Wed Nov 09 12:39:57 +0000 2016"
+            }
+        }
+    ]
+}
