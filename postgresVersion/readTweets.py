@@ -81,15 +81,15 @@ try:
                 if w1 != w2:
                     com[w1][w2] += 1
 
-        # com_max = []
+        com_max = []
         # # For each term, look for the most common co-occurrent terms
-        # for t1 in com:
-        #     t1_max_terms = sorted(com[t1].items(), key=operator.itemgetter(1), reverse=True)[:5]
-        #     for t2, t2_count in t1_max_terms:
-        #         com_max.append(((t1, t2), t2_count))
+        for t1 in com:
+            t1_max_terms = sorted(com[t1].items(), key=operator.itemgetter(1), reverse=True)[:5]
+            for t2, t2_count in t1_max_terms:
+                com_max.append(((t1, t2), t2_count))
 
         # Get the most frequent co-occurrences
-        # terms_max = sorted(com_max, key=operator.itemgetter(1), reverse=True)
+        terms_max = sorted(com_max, key=operator.itemgetter(1), reverse=True)
         # to output e.g. print(terms_max[:5]) - 5 being the top co-occurrent term pairs in each tweet
 
         # Count the most frequent co-occurrences for a single specific term
@@ -101,7 +101,7 @@ try:
         # count_all.update(terms_stop)
 
         # Semantics Analysis Count
-        count_stop_single.update(terms_stop)
+        count_stop_single.update(terms_max)
 
         if tweet['coordinates']:
             geo_json_feature = {
